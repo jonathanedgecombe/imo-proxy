@@ -1,0 +1,6 @@
+Debug/
+Release/
+.*
+*.sw*
+!.gitignore
+
